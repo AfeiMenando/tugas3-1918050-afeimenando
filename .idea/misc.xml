@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_call_24.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_home_24.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_location_on_24.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_perm_media_24.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/drawable/ic_profil.xml" value="0.3026041666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.1393110435663627" />
+        <entry key="app/src/main/res/layout/fragment_contac.xml" value="0.1393110435663627" />
+        <entry key="app/src/main/res/layout/fragment_message.xml" value="0.1393110435663627" />
+        <entry key="app/src/main/res/layout/fragment_profil.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_socialmedia.xml" value="0.1393110435663627" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.335" />
+        <entry key="app/src/main/res/menu/draw_menu.xml" value="0.28205128205128205" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
